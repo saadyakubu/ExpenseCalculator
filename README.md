@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(06 04, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Sa'ad Yakubu)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Introducing a simple expense calculator using Javascript and HTML
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://saadyakubu.github.io/ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned the use of functions in Javascript.
+2. Learned to manipulate HTML elements using DOM.
+3. Learned to code a simple web application using Javascript.
 
